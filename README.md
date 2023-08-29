@@ -17,3 +17,6 @@ This repository contains a simple Express.js application that provides an API fo
 2. npm install
 
 3. npm start (server will start in port 3001)
+
+
+![Alt text](image.png)

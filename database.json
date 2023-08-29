@@ -1,3 +1,14 @@
 [
-
+  {
+    "id": "54ef0a33-8733-4b43-b0f6-62f2ff307220",
+    "latitude": 53.1699,
+    "longitude": -116.9384,
+    "filename": "sample1"
+  },
+  {
+    "id": "d9f15623-2d26-4f77-ae66-3a9bd4e9c5ea",
+    "latitude": 50.1699,
+    "longitude": -117.9384,
+    "filename": "sample3"
+  }
 ]
